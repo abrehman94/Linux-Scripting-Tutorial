@@ -1,9 +1,15 @@
 #!/bin/bash
 
-for song in ./songs/*.mp3; do 
-  song=$(basename $song)
+cd ./songs
+
+for song in ./*.mp3; do 
   artist=${song/-*/}
-  mkdir -p ./organized_songs/$artist
-  cp ./songs/$song ./organized_songs/$artist
+  mkdir -p ../script_organized/$artist
+  cp ./$song ../script_organized/$artist
 done 
+
+
+
+
+
 
