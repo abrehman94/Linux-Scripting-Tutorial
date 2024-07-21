@@ -24,21 +24,21 @@ Follow the three tutorials that will introduce you to the Linux interface, the m
 By the end of this video you would have become familiar with the Linux interface,
 downloaded the exercise files from the github repository and played some music.
 
-[![Tutorial 1](https://i.ytimg.com/vi/Mly1WFxR4DI/hqdefault.jpg)](https://www.youtube.com/watch?v=Mly1WFxR4DI&list=PLRKsj4fqvx5ji93fosJW4nprViBIpYf3z)
+[![Tutorial 1](https://i.ytimg.com/vi/iqOVJMQgiqU/hqdefault.jpg)](https://www.youtube.com/watch?v=iqOVJMQgiqU&list=PLRKsj4fqvx5ji93fosJW4nprViBIpYf3z)
 
 ### Tutorial 2: Magic of Scripting 
 
 This tutorial will showcase the magic of scripting. By the end of this video you would have 
 understood the usefulness of scripting. 
 
-[![Tutorial 2](https://i.ytimg.com/vi/mNnXhBv76V8/hqdefault.jpg)](https://www.youtube.com/watch?v=mNnXhBv76V8&list=PLRKsj4fqvx5ji93fosJW4nprViBIpYf3z)
+[![Tutorial 2](https://i.ytimg.com/vi/t72NRn8byug/hqdefault.jpg)](https://www.youtube.com/watch?v=t72NRn8byug&list=PLRKsj4fqvx5ji93fosJW4nprViBIpYf3z)
 
 ### Tutorial 3: Learning to Write the Magical Script 
 
 This tutorial will walk you through the process of writing the script to organize the songs.
 By the end of this video you would have become familiar with the terminal environment and commands required to write a script to organize the song by their artist name. 
 
-[![Tutorial 3](https://i.ytimg.com/vi/3FZKQplf92g/hqdefault.jpg)](https://www.youtube.com/watch?v=3FZKQplf92g&list=PLRKsj4fqvx5ji93fosJW4nprViBIpYf3z)
+[![Tutorial 3](https://i.ytimg.com/vi/jpqxqT7MsWo/hqdefault.jpg)](https://www.youtube.com/watch?v=jpqxqT7MsWo&list=PLRKsj4fqvx5ji93fosJW4nprViBIpYf3z)
 
 # Supplementary Information 
 
