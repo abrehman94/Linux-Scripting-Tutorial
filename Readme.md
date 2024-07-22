@@ -9,7 +9,7 @@
     * [Tutorial 2: Magic of Scripting](#tutorial-2:-magic-of-scripting)
     * [Tutorial 3: Learning to Write the Magical Script](#tutorial-3:-learning-to-write-the-magical-script)
 * [Supplementary Information](#supplementary-information)
-  * [References](#references)
+* [References](#references)
 
 <!-- vim-markdown-toc -->
 
@@ -50,7 +50,7 @@ to the Artist name into subfolders.
 If you want to pull more songs, add the name of the song from list_of_songs.txt to list_of_songs_subset.txt 
 and run the ./pull_songs.sh script. 
 
-## References 
+# References 
 
   * [Songs taken from SoundSafari Repository](https://github.com/SoundSafari/CC0-1.0-Music)
 
